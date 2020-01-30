@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <title>Title</title>
+    <title>Fashion</title>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -53,24 +53,25 @@
 
 <!--Products  -->
 
-<section id="products" class="container">
-<h3>PRODUCTS</h3>
+<section id="products" class="product">
+  <div class="container">
+<h3>Products</h3>
 <div class="row">
-  <div class="col-sm-3">
-    <div class="card" style="width:400px">
-  <img class="card-img-top" src="image/card.jpg" alt="Card image">
-  <div class="card-body">
-    <h4 class="card-title">Shirts Styles</h4>
-    <p class="card-text">Some example text.</p>
-    <a href="#" class="btn btn-primary">Buy $10.00 only</a>
+  <div class="col-sm-3 kolum">
+    <div class="card kard" style="width:300px">
+      <img class="card-img-top" src="image/card.jpg" alt="Card image">
+      <div class="card-body">
+       <h4 class="card-title">Shirts Styles</h4>
+        <p class="card-text">Some example text.</p>
+      <a href="#" class="btn btn-primary">Buy $10.00 only</a>
+    </div>
   </div>
-</div>
 </div>
 
 <div class="col-sm-3">
-    <div class="card" style="width:400px">
-  <img class="card-img-top" src="image/card2.jpg" alt="Card image">
-  <div class="card-body">
+    <div class="card" style="width:300px">
+    <img class="card-img-top" src="image/card2.jpg" alt="Card image">
+    <div class="card-body">
     <h4 class="card-title">Top Style</h4>
     <p class="card-text">Some example text.</p>
     <a href="#" class="btn btn-primary">Buy $12.00 only</a>
@@ -78,7 +79,7 @@
 </div>
 </div>
 <div class="col-sm-3">
-    <div class="card" style="width:400px">
+    <div class="card" style="width:300px">
   <img class="card-img-top" src="image/card3.jpg" alt="Card image">
   <div class="card-body">
     <h4 class="card-title">T-shirts Styles</h4>
@@ -88,17 +89,18 @@
 </div>
 </div>
 <div class="col-sm-3">
-    <div class="card" style="width:400px">
+    <div class="card" style="width:300px">
   <img class="card-img-top" src="image/card4.jpg" alt="Card image">
   <div class="card-body">
     <h4 class="card-title">Tops Style</h4>
     <p class="card-text">Some example text.</p>
+    <p5><small>offer only for today</small></p5>
     <a href="#" class="btn btn-primary">Buy $6.00 (offer)</a>
   </div>
 </div>
 </div>
 </div>
-
+</div>
 </section>
 
 
