@@ -1,3 +1,22 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Fashion</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  
+  </head>
+  <body>
+
+
+
 <!-- Header Contacts & Number -->
 <div id="header">
 <div class="row">
@@ -42,28 +61,37 @@ function checkTime(i) {
   <div id="nav" class="float-">
   <ul class="navbar-nav navbar-nav">
     <li class="nav-item">
-    <a class="nav-link" href="#"><i class="fa fa-fw fa-home"></i> Home</a>
+    <a class="nav-link" href="index.php"><i class="fa fa-fw fa-home"></i> Home</a>
       </li>
        <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown"><i class="fab fa-product-hunt"></i> 
         Products
         </a>
       <div class="dropdown-menu">
-        <a class="dropdown-item" href="#">product a</a>
-        <a class="dropdown-item" href="#">product b</a>
-        <a class="dropdown-item" href="#">product c</a>
+        <a class="dropdown-item" href="shirts.php">All Types of Shirts</a>
+        <a class="dropdown-item" href="tshirts.php">All Types of T-shirts</a>
+        <a class="dropdown-item" href="tops.php">All types of Tops</a>
       </div>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="#"><i class="far fa-address-card"></i> About</a>
+      <a class="nav-link" href="About.php"><i class="far fa-address-card"></i> About</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="#"><i class="fa fa-fw fa-envelope"></i> Contacts</a>
+      <a class="nav-link" href="contact.php"><i class="fa fa-fw fa-envelope"></i> Contacts</a>
     </li>
     
   </ul>
   </div>
 </nav>
 </div>
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="js/jquery.js" ></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
 
+  
+    </body>
+</html>
 
