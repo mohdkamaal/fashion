@@ -1,7 +1,10 @@
 <?php
 include("header.php")
 ?>
-
+<div class="stock">
+<h1>Shirts</h1>
+<h3>in Stock:</h3>
+</div>
 <div class="container">
   <div class="row">
     <div class="col-md-3">

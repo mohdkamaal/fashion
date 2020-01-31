@@ -25,7 +25,7 @@
 
 </div>
 <div class="col-md-4 map">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3444.166871635246!2d78.01829021469042!3d30.317770981783656!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3909298ae361ff95%3A0x1f330c62e40698d6!2sPrem%20Sukh%20Dham!5e0!3m2!1sen!2sin!4v1580283407785!5m2!1sen!2sin" width="400" height="154" frameborder="0" style="border:0"; allowfullscreen=""></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3444.166871635246!2d78.01829021469042!3d30.317770981783656!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3909298ae361ff95%3A0x1f330c62e40698d6!2sPrem%20Sukh%20Dham!5e0!3m2!1sen!2sin!4v1580283407785!5m2!1sen!2sin" width="350" height="154" frameborder="0" style="border:0"; allowfullscreen=""></iframe>
 </div>
 
 </div>
